@@ -1,0 +1,20 @@
+body {
+  background-color: #2C2C2C; }
+
+.img-parent .img {
+  width: 18%;
+  left: 1rem; }
+
+.link-color {
+  color: #a0a0a0;
+  align-items: center;
+  font-size: 1.3rem; }
+  .link-color:hover {
+    color: #E4E4E4; }
+  .link-color:focus {
+    color: #7e7ee2; }
+
+.text-color {
+  color: #E4E4E4; }
+
+/*# sourceMappingURL=main.css.map */
